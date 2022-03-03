@@ -1,1 +1,1 @@
-File to switch user.
+Shell scripts showing basic linux commands
