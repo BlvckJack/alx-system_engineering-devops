@@ -1,2 +1,2 @@
 #!/bin/bash
-find /root/alx-system_engineering-devops/0x02-shell_redirections/. -type d | wc -l
+find /root/alx-system_engineering-devops/0x02-shell_redirections/.* -type d | wc -l
